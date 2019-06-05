@@ -16,8 +16,8 @@ This idea results from a discussion with one of my colleagues who did not believ
 - If so, move the largest one to the generated position. Then, keep moving until all eddies outside the Atlantic Ocean domain have been moved into the domain.
 
 ## Dependency
-- Lon/Lat coordinate data for [the boundary of the Atlantic Ocean](http://www.marineregions.org/gazetteer.php?p=details&id=1902), including islands. 
-- *[The M_Map toolbox](https://www.eoas.ubc.ca/~rich/map.html)* and associated Lon/Lat coordinate data *m_coasts.mat*
+- Lon/Lat coordinate data for [the boundary of the Atlantic Ocean](http://www.marineregions.org/gazetteer.php?p=details&id=1902), including islands. Here's a [*.mat* version](https://github.com/chouj/MoveEddiesIntoAtlantic/raw/master/AtlanticOceanBoundary.mat).
+- **[The M_Map toolbox](https://www.eoas.ubc.ca/~rich/map.html)** and associated Lon/Lat coordinate data **m_coasts.mat**
 - [land_or_ocean.m](https://ww2.mathworks.cn/matlabcentral/fileexchange/45268-land_or_ocean-m)
 
 ## Compatibility
