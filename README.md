@@ -24,4 +24,11 @@ This idea results from a discussion with one of my colleagues who did not believ
 #### MATLAB Release Compatibility
 Created with R2015a
 
+## Acknowledgement
+- [如何生成多个互不重叠的不同半径圆？](https://www.zhihu.com/question/53012468)
 
+## Support ME !
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mesoscale)
+[![Donate](https://img.shields.io/badge/Donate-WeChat-brightgreen.svg)](https://github.com/chouj/donate-page/blob/master/simple/images/WeChatQR.jpg?raw=true)
+[![Donate](https://img.shields.io/badge/Donate-AliPay-blue.svg)](https://github.com/chouj/donate-page/blob/master/simple/images/AlipayQR.jpg?raw=true)
