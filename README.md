@@ -31,7 +31,7 @@ Created with R2015a
 
 ## Final Figure
 ##### Take 1993-01-01 for instance.
-![19921014_MoveEddiesIntoAtlanticOcean](https://github.com/chouj/MoveEddiesIntoAtlantic/blob/master/19930101_MoveEddiesIntoAtlanticOcean_r300.png?raw=true)
+![19930101_MoveEddiesIntoAtlanticOcean](https://github.com/chouj/MoveEddiesIntoAtlantic/blob/master/19930101_EddiesMovedIntoAtlanticOcean_r300.png?raw=true)
 
 ## Support ME !
 
