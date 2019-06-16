@@ -1,3 +1,5 @@
+![19921014_MoveEddiesIntoAtlanticOcean](https://github.com/chouj/MoveEddiesIntoAtlantic/blob/master/MovingAllEddiesIntoAtlantic_19930101.gif?raw=true)
+
 # What If moving all oceanic mesoscale eddies into the vast domain of the Atlantic Ocean ?
 
 This idea results from a discussion with one of my colleagues who did not believe oceanic mesoscale eddies cover nearly a third of the ocean surface at any time. The data calculation such as summing up all the areas of eddies is effective but sometimes boring. Thus, how about visualizing it by gathering them together in one place ? The vast Atlantic Ocean covers about 29 percent of the Earth's water surface area according to [Wikipedia](https://www.wikiwand.com/en/Atlantic_Ocean), making it the perfect domain for this kind of demonstration. 
@@ -28,8 +30,8 @@ Created with R2015a
 - [如何生成多个互不重叠的不同半径圆？](https://www.zhihu.com/question/53012468)
 
 ## Final Figure
-##### Take 1992-10-14 for instance.
-![19921014_MoveEddiesIntoAtlanticOcean](https://github.com/chouj/MoveEddiesIntoAtlantic/blob/master/19921014_MoveEddiesIntoAtlanticOcean.png?raw=true)
+##### Take 1993-01-01 for instance.
+![19921014_MoveEddiesIntoAtlanticOcean](https://github.com/chouj/MoveEddiesIntoAtlantic/blob/master/19930101_MoveEddiesIntoAtlanticOcean_r300.png?raw=true)
 
 ## Support ME !
 
